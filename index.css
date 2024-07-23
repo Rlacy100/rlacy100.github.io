@@ -10,6 +10,7 @@ h1 {
 }
 
 img {
+  position: center;
   height: 150px;
   width: 200px;
 }
