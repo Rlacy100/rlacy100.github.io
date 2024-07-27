@@ -1,5 +1,5 @@
 .banner {
-    color: orange;
+    color: green;
     text-align: center;
     font-size: 75px;
     font-family: fantasy, Georgia, 'Times New Roman', Times, serif;
@@ -13,7 +13,7 @@
  padding: 1px;   
  height: 300px;
  width: 300px;
- border: dotted 5px blue;
+ border: dotted 5px;
 }
 
 p {
@@ -21,16 +21,16 @@ p {
   font-size: 30px;
   font-family: fantasy;
   font-weight: bold;
-  color: orange;  
+  color: green;  
 } 
 
 body {
-    background-color: blue;
+    background-color: black;
 }
 
 .banner1 {
-    color: blue;
-    background-color: orange;
+    color: black;
+    background-color: green;
     text-align: center;
     font-size: 25px;
     margin: 0%;
