@@ -12,11 +12,11 @@
  padding: 1px;   
  height: 400px;
  width: 600px;
- border: solid 5px blue;
+ border: groove 5px blue;
 }
 
 p {
-  position: center;  
+  text-align: center;  
   color: orange;
   font-size: 30px;
   font-family: fantasy;
