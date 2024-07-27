@@ -19,7 +19,7 @@
 p {
   text-align: center;  
   font-size: 30px;
-  font-family: fantasy;
+  font-family: fantasy, sans-serif;
   font-weight: bold;
   color: green;  
 } 
