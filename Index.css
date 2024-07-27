@@ -2,7 +2,7 @@
     color: green;
     text-align: center;
     font-size: 75px;
-    font-family: fantasy, Georgia, 'Times New Roman', Times, sans-serif;
+    font-family: sevillana, fantasy, sans-serif;
     padding: 100px 0;
     margin-top: 0%;
 }
@@ -19,7 +19,7 @@
 p {
   text-align: center;  
   font-size: 30px;
-  font-family: fantasy, sans-serif;
+  font-family: sevillana, fantasy, sans-serif;
   font-weight: bold;
   color: green;  
 } 
