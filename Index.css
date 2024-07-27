@@ -2,7 +2,7 @@
     color: green;
     text-align: center;
     font-size: 75px;
-    font-family: fantasy, Georgia, 'Times New Roman', Times, serif;
+    font-family: fantasy, Georgia, 'Times New Roman', Times, sans-serif;
     padding: 100px 0;
     margin-top: 0%;
 }
