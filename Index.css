@@ -3,16 +3,16 @@
     color: blue;
     text-align: center;
     font-size: 75px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: fantasy, Georgia, 'Times New Roman', Times, serif;
     padding: 100px 0;
     margin-top: 0%;
 }
 
 #picture {
  padding: 1px;   
- height: 200px;
- width: 200px;
- border: groove 5px blue;
+ height: 300px;
+ width: 300px;
+ border: dotted 5px blue;
 }
 
 p {
