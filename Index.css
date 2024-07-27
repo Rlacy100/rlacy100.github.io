@@ -18,10 +18,10 @@
 
 p {
   text-align: center;  
-  color: orange;
   font-size: 30px;
   font-family: fantasy;
   font-weight: bold;
+  font-color: orange;  
 } 
 
 body {
