@@ -18,3 +18,8 @@ img {
 p {
   font-size: 30px;
 }
+
+#gif {
+  height: 150px;
+  width: 150px;
+}
