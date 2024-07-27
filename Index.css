@@ -13,7 +13,7 @@
  padding: 1px;   
  height: 300px;
  width: 300px;
- border: dotted 5px;
+ border: solid 5px white;
 }
 
 p {
