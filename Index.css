@@ -4,7 +4,6 @@
     font-size: 75px;
     font-family: sevillana, fantasy, sans-serif;
     padding: 10px 0;
-    margin-bottom: 10px;
 }
 
 #picture {
@@ -41,5 +40,5 @@ h3 {
    color: green;
     text-align: center;
     font-size: 45px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
