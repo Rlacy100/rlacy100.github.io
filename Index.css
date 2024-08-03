@@ -1,8 +1,9 @@
 .banner {
-    color: green;
+    color: black;
     text-align: center;
     font-size: 75px;
     font-family: sevillana, fantasy, sans-serif;
+    background-color: green;
 }
 
 #picture {
@@ -28,7 +29,8 @@ body {
 
 .banner1 {
     font-family: sevillana, fantasy, serif;
-    color: #00F7FF;
+    color: black;
+    background-color: green;
     text-align: center;
     font-size: 25px;
     padding-bottom: 25px;
