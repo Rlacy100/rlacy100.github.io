@@ -23,7 +23,8 @@ p {
 } 
 
 body {
-    background-image: url(./Images/
+    background-image: url(./Images/20240714_233115993_iOS.jpg);
+    opacity: 0.5;
     background-color: black;
 }
 
