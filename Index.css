@@ -6,10 +6,10 @@
 }
 
 #picture {
- border: 1px solid gold;    
+ border: 3px dotted gold;    
  margin-left: auto;
  margin-right: auto;   
- padding: 25px;   
+ padding: 15px;   
  height: 300px;
  width: 300px;
  border-radius: 30px;
