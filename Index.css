@@ -7,9 +7,7 @@
 
 #picture {
  border: 3px dotted gold;    
- margin-left: auto;
- margin-right: auto;   
- padding: 15px;   
+ padding:5px;   
  height: 300px;
  width: 300px;
  border-radius: 30px;
