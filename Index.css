@@ -1,5 +1,5 @@
 .banner {
-    color: #CF233F;
+    color: #353750;
     text-align: center;
     font-size: 75px;
     font-family: sevillana, fantasy, sans-serif;
@@ -18,7 +18,7 @@ p {
   font-size: 40px;
   font-family: sevillana, fantasy, sans-serif;
   font-weight: 700;
-  color: #CF233F;  
+  color: #353750;  
 } 
 
 body {
@@ -37,12 +37,12 @@ body {
 
 h3 {
    font-family: sevillana, fantasy, serif;  
-   color: #CF233F;
+   color: #353750;
     text-align: center;
     font-size: 60px;
     padding-bottom: 10px;
 }
 
 footer {
-    color: #CF233F;
+    color: #353750;
 }
