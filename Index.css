@@ -10,7 +10,7 @@
  height: 375px;
  width: 375px;
  border-radius: 100px;
-justify-content: space-between;
+justify-content: space-around;
 }
 
 p {
