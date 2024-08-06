@@ -1,16 +1,16 @@
 h1 {
-    color: #00F9E6;
-    text-align: center;
-    font-size: 75px;
-    font-family: sevillana, fantasy, sans-serif;
+  color: #00F9E6;
+  text-align: center;
+  font-size: 75px;
+  font-family: sevillana, fantasy, sans-serif;
 }
 
 #picture {
- padding:45px;   
- height: 300px;
- width: 300px;
- border-radius: 100px;
- justify-content: center;   
+   padding:45px;   
+   height: 300px;
+   width: 300px;
+   border-radius: 100px;
+   justify-content: center;   
 }
 
 p {
@@ -38,9 +38,9 @@ h3 {
 h2 {
    font-family: sevillana, fantasy, serif;  
    color: white;
-    text-align: center;
-    font-size: 60px;
-    padding-bottom: 10px;
+   text-align: center;
+   font-size: 60px;
+   padding-bottom: 10px;
 }
 
 footer {
