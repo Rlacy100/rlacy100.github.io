@@ -10,7 +10,8 @@ h1 {
    height: 300px;
    width: 300px;
    border-radius: 100px;
-   display: center;   
+   margin-left: 10px;
+   margin-right: 10px;
 }
 
 p {
