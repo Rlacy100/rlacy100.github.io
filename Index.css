@@ -1,5 +1,5 @@
 h1 {
-  color: #00F9E6;
+  color: blue;
   text-align: center;
   font-size: 75px;
   font-family: sevillana, fantasy, sans-serif;
@@ -29,7 +29,7 @@ body {
 
 h3 {
     font-family: sevillana, fantasy, serif;
-    color: #00F9E6;
+    color: blue;
     text-align: center;
     font-size: 25px;
     padding-bottom: 25px;
@@ -37,7 +37,7 @@ h3 {
 
 h2 {
    font-family: sevillana, fantasy, serif;  
-   color: white;
+   color: green;
    text-align: center;
    font-size: 60px;
    padding-bottom: 10px;
