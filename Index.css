@@ -25,7 +25,7 @@ p {
 body {
     background-image: url(./Images/7026047.jpg);
     color: black;
-    background-size: cover;
+    background-size: auto;
 }
 
 h3 {
