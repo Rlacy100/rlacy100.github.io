@@ -5,6 +5,10 @@ h1 {
   font-family: sevillana, fantasy, sans-serif;
 }
 
+#1 {
+  text-align: center;
+  margin-bottome: 10px;
+
 #picture {
    padding: 35px;   
    height: 300px;
