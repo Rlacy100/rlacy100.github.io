@@ -1,3 +1,10 @@
+.rubik-puddles-regular {
+  font-family: "Rubik Puddles", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
 h1 {
   color: green;
   text-align: center;
