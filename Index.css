@@ -1,3 +1,5 @@
+
+                                                     */Title/*
 h1 {
   color: green;
   text-align: center;
@@ -13,6 +15,9 @@ h1 {
    display: inline-flex;
 
 }
+                            
+
+                                                      */Dog Names/*
 
 p {
   text-align: center;  
@@ -28,7 +33,10 @@ body {
     background-size: auto;
     background-position: center;
 }
+                                        
 
+
+                                                        */Author/*
 h3 {
     font-family: sevillana, fantasy, serif;
     color: white;
@@ -36,6 +44,7 @@ h3 {
     font-size: 15px;
     padding-bottom: 25px;
 }
+
 h2 {
    font-family: "Rubik Puddles", sevillana, fantasy, serif;  
    color: white;
