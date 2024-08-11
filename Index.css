@@ -27,6 +27,13 @@ h2 {
     display: inline-flex;
     }
     
+#picture2 {
+    padding: 35px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+    display: inline-flex;
+    }
   
 #picture {
    padding: 35px;   
