@@ -7,6 +7,17 @@ h1 {
   font-family: "Rubik Puddles", fantasy, sans-serif;
 }
 
+
+
+                                                     */SubTitle/*
+h2 {
+   font-family: "Rubik Puddles", sevillana, fantasy, serif;  
+   color: white;
+   text-align: center;
+   font-size: 40px;
+   padding-bottom: 10px;
+}
+
 #picture {
    padding: 35px;   
    height: 300px;
@@ -45,18 +56,13 @@ h3 {
     padding-bottom: 25px;
 }
 
-h2 {
-   font-family: "Rubik Puddles", sevillana, fantasy, serif;  
-   color: white;
-   text-align: center;
-   font-size: 40px;
-   padding-bottom: 10px;
-}
 
+
+                                                         */Footer/*
 h5 {
     color: green;
 }
-                                                             */ Fonts /*
+                                                         */ Fonts /*
 .rubik-puddles-regular {
   font-family: "Rubik Puddles", system-ui;
   font-weight: 400;
