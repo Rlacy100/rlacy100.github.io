@@ -42,7 +42,14 @@ h2 {
     border-radius: 50px;
     display: inline-flex;
     }
-
+    
+#picture4 {
+    padding: 10px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+    display: flex;
+    }
   
 #picture {
    padding: 35px;   
