@@ -1,3 +1,8 @@
+@font-face {
+  font-family: autumn;
+  src: https://get.fontspace.co/download/font/BLq98/MmZiNTlmZDkwMTg2NGU4MjlhMzJmMGM4ZmU0ZDJlOTIudHRm/AutumnScenery-BLq98.ttf;
+}
+
 h1 {
   color: green;
   text-align: center;
