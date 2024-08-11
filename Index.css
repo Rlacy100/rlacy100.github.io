@@ -67,6 +67,22 @@ h2 {
     display: inline-flex;
     }
 
+#picture7 {
+    padding: 10px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+    display: inline-flex;
+    }
+
+#picture8 {
+    padding: 10px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+    display: inline-flex;
+    }
+
   
 #picture {
    padding: 35px;   
