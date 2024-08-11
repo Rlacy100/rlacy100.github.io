@@ -24,7 +24,7 @@ h2 {
 p {
   text-align: center;  
   font-size: 25px;
-  font-family: sevillana, fantasy, sans-serif;
+  font-family:  "Press Start 2P", sevillana, fantasy, sans-serif;
   font-weight: 700;
   color: white;
 } 
@@ -56,3 +56,8 @@ h5 {
   font-style: normal;
 }
 
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
