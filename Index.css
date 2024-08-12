@@ -23,6 +23,7 @@ h2 {
     height: 300px;
     width: 300px;
     border-radius: 50px;
+    display: inline-block;
     }
     
 #picture2 {
@@ -30,6 +31,7 @@ h2 {
     height: 300px;
     width: 300px;
     border-radius: 50px;
+    display: inline-block;  
     }
     
 #picture3 {
@@ -37,6 +39,7 @@ h2 {
     height: 300px;
     width: 300px;
     border-radius: 50px;
+    display: inline-block;  
     }
     
 #picture4 {
@@ -44,6 +47,7 @@ h2 {
     height: 300px;
     width: 300px;
     border-radius: 50px;
+    display: inline-block;
     }
     
 #picture5 {
@@ -51,6 +55,7 @@ h2 {
     height: 300px;
     width: 300px;
     border-radius: 50px;
+    display: inline-block;
     }
 
 #picture6 {
@@ -58,6 +63,7 @@ h2 {
     height: 300px;
     width: 300px;
     border-radius: 50px;
+    display: inline-block;
     }
 
 #picture7 {
@@ -65,6 +71,7 @@ h2 {
     height: 300px;
     width: 300px;
     border-radius: 50px;
+    display: inline-block;
     }
 
 #picture8 {
@@ -72,6 +79,7 @@ h2 {
     height: 300px;
     width: 300px;
     border-radius: 50px;
+    display: inline-block;
     }
 
 #picture9 {
@@ -79,6 +87,7 @@ h2 {
     height: 300px;
     width: 300px;
     border-radius: 50px;
+    display: inline-block;
     }
 
 #picture10 {
@@ -86,6 +95,7 @@ h2 {
     height: 300px;
     width: 300px;
     border-radius: 50px;
+    display: inline-block;
     }
 
 #picture11 {
@@ -93,6 +103,7 @@ h2 {
     height: 300px;
     width: 300px;
     border-radius: 50px;
+    display: inline-block;
     }
 
 #picture12 {
@@ -100,6 +111,7 @@ h2 {
     height: 300px;
     width: 300px;
     border-radius: 50px;
+    display: inline-block;
     }
   
 #picture {
@@ -107,6 +119,7 @@ h2 {
    height: 300px;
    width: 300px;
    border-radius: 100px;
+   display: inline-block;
 }
                             
 p {
