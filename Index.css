@@ -2,12 +2,14 @@
   text-align: center;
   color: black;
   font-family: "Press Start 2P", fantasy, sans-serif;
+  padding-bottom: 10px;
   }
 
 figcaption {
   text-align: center;
   color: green;
   font-family: "Press Start 2P", fantasy, sans-serif;
+  padding-bottom: 10px;
   }
 
 h1 {
