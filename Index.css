@@ -13,7 +13,7 @@ h1 {
 
 h2 {
    font-family: "Rubik Puddles", sevillana, fantasy, serif;  
-   color: grey;
+   color: white;
    text-align: center;
    font-size: 60px;
    padding-bottom: 10px;
@@ -220,7 +220,7 @@ body {
                                         
 h3 {
     font-family: "Press Start 2P", sevillana, fantasy, serif;
-    color: white;
+    color: grey;
     text-align: center;
     font-size: 12px;
     padding-bottom: 25px;
