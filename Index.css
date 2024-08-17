@@ -206,15 +206,10 @@ h2 {
     }
 
 #picture {
-   padding: 35px;   
+   padding: 10px;   
    height: 300px;
    width: 300px;
-   border-radius: 100px;
-  disply: grid;
-  align-items: stretch;
-  align-content: stretch;
-  grid-template-rows: repeat(5, 400px);
-  grid-template-columns: repeat(5, 400px);
+   border-radius: 50px;
 }
                             
 p {
@@ -230,8 +225,6 @@ body {
     color: black;
     background-size: auto;
     background-position: center;
-    disply: inline-grid;
-    grid-auto-flow: column;
 }
                                         
 h3 {
