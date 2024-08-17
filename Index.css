@@ -1,6 +1,5 @@
 .container {
   disply: grid;
-  justify-items: center;
   align-items: stretch;
   align-content: stretch;
 }
