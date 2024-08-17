@@ -205,6 +205,14 @@ h2 {
     display: inline-block;
     }
 
+#picture23 {
+  padding: 10px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+    display: inline-block;
+    }
+
 #picture {
    padding: 10px;   
    height: 300px;
