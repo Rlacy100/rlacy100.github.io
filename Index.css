@@ -1,6 +1,7 @@
 figure {
   disply: grid;
   justify-items: center;
+  align-items; stretch;
 }
 
 .figcaption1 {
