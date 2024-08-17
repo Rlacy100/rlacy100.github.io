@@ -229,7 +229,7 @@ body {
     color: black;
     background-size: auto;
     background-position: center;
-    disply: grid;
+    disply: inline-grid;
     grid-auto-flow: column;
 }
                                         
