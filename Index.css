@@ -1,7 +1,7 @@
 figure {
   disply: grid;
   justify-items: center;
-  align-items; stretch;
+  align-items: stretch;
 }
 
 .figcaption1 {
@@ -221,7 +221,7 @@ h2 {
                             
 p {
   text-align: center;  
-  font-size: 15px;
+  font-size: 18px;
   font-family:  "Press Start 2P", sevillana, fantasy, sans-serif;
   font-weight: 700;
   color: black;
