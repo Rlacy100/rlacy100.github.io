@@ -2,13 +2,13 @@
   text-align: center;
   color: black;
   font-family: "Press Start 2P", fantasy, sans-serif;
-
+  font-size: 13px;
   }
 
 figcaption {
-  font-size: 10px;
+  font-size: 13px;
   text-align: center;
-  color: green;
+  color:  #32CD32;
   font-family: "Press Start 2P", fantasy, sans-serif;
   padding: 5px;
   margin: 10px;
