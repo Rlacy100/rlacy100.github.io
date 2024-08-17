@@ -220,6 +220,22 @@ h2 {
     display: inline-block;
     }
 
+#picture24 {
+    padding: 10px;
+    height: 300px;
+    width: 300px;
+    border-radius: 30px;
+    align: center;
+    }
+
+#picture25 {
+    padding: 10px;
+    height: 300px;
+    width: 300px;
+    border-radius: 30px;
+    align: center;
+    }
+
 #picture {
    padding: 10px;   
    height: 300px;
