@@ -25,7 +25,7 @@ body {
 
 #picture1 {
     padding: 10px;
-    height: 300px;
+    height: auto;
     width: 350px;
     border-radius: 30px;
     align: center;
@@ -34,7 +34,7 @@ body {
 
 #picture2 {
     padding: 10px;
-    height: 300px;
+    height: auto;
     width: 350px;
     border-radius: 30px;
     align: center;
@@ -43,7 +43,7 @@ body {
 
 #picture3{
     padding: 10px;
-    height: 300px;
+    height: auto;
     width: 350px;
     border-radius: 30px;
     align: center;
@@ -52,7 +52,7 @@ body {
 
 #picture4{
     padding: 10px;
-    height: 300px;
+    height: auto;
     width: 350px;
     border-radius: 30px;
     align: center;
@@ -61,7 +61,7 @@ body {
 
 #picture5{
     padding: 10px;
-    height: 300px;
+    height: auto;
     width: 350px;
     border-radius: 30px;
     align: center;
