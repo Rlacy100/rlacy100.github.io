@@ -28,7 +28,7 @@ body {
     width: 350px;
     border-radius: 30px;
     align: center;
-    display: block;
+    display: inline-block;
     }
 
 #picture2 {
@@ -37,7 +37,7 @@ body {
     width: 350px;
     border-radius: 30px;
     align: center;
-    display: block;
+    display: inline-block;
     }
 
 #picture3{
@@ -46,7 +46,25 @@ body {
     width: 350px;
     border-radius: 30px;
     align: center;
-    display: block;
+    display: inline-block;
+    }
+
+#picture4{
+    padding: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    display: inline-block;
+    }
+
+#picture5{
+    padding: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    display: inline-block;
     }
 
 figcaption {
