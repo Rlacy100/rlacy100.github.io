@@ -12,3 +12,21 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 }
+
+#picture1 {
+    padding: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    display: block;
+    }
+
+#picture2 {
+    padding: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    display: block;
+    }
