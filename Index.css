@@ -7,7 +7,7 @@
   }
 
 .figcaption1 {
-  border: dotted 1px black;
+  border: dotted 3px black;
   text-align: center;
   color: black;
   font-family: "Press Start 2P", fantasy, sans-serif;
@@ -15,7 +15,7 @@
   }
 
 figcaption {
-  border: dotted 1px #32cd32;
+  border: dotted 3px #32cd32;
   font-size: 13px;
   text-align: center;
   color: #32CD32;
