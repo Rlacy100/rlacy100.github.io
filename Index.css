@@ -1,5 +1,8 @@
 .images .image-container {
   width: 50%;
+  text-align: center;
+  display: block;
+  justify-content: center;
 }
 
 .figcaption2 {
