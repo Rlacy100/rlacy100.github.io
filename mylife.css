@@ -31,6 +31,15 @@ body {
     display: block;
     }
 
+#picture3{
+    padding: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    display: block;
+    }
+
 figcaption {
   border: dotted 3px white;
   font-size: 13px;
