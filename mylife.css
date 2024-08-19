@@ -7,7 +7,7 @@ h1 {
 }
 
 body {
-  background-image: radial-gradient(circle, blue, black, blue);
+  background-image: radial-gradient(circle, black, blue, black);
   color: black;
   background-size: contain;
   background-position: center;
