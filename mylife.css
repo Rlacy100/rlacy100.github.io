@@ -43,6 +43,10 @@ body {
     display: inline-block;
     }
 
+#picture1: hover {
+  max-height: 400px;
+}
+
 #picture2 {
     padding: 10px;
     height: 300px;
