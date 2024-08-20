@@ -1,5 +1,6 @@
 .images {
-  display: inline-flex;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
 }
 
 h5 {
