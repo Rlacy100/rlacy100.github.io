@@ -69,6 +69,42 @@ body {
     display: inline-block;
     }
 
+#picture6{
+    padding: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    display: inline-block;
+    }
+
+#picture7{
+    padding: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    display: inline-block;
+    }
+
+#picture8{
+    padding: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    display: inline-block;
+    }
+
+#picture9{
+    padding: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    display: inline-block;
+    }
+
 figcaption {
   border: dotted 3px white;
   font-size: 13px;
