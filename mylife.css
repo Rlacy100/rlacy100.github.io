@@ -38,8 +38,8 @@ body {
     transition-timing-function: easy-in-out;
     transition-delay: 400ms;
     padding: 10px;
-    height: auto;
-    max-width: 100%;
+    height: 275px;
+    width: 350px;
     border-radius: 30px;
     align: center;
     display: inline-block;
