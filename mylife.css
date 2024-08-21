@@ -175,14 +175,6 @@ figcaption {
   width: 50%;
 }
 
-#picture1 {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
-}
 
 .middle {
   transition: .5s ease;
@@ -208,3 +200,8 @@ figcaption {
   font-size: 16px;
   padding: 16px 32px;
 
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  }
