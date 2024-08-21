@@ -42,12 +42,10 @@ body {
     width: 350px;
     border-radius: 30px;
     align: center;
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
+    opacity: 1;
+    display: block;
+    transition: .5s ease;
+    backface-visibility: hidden;
     }
 
 #picture1: hover {
