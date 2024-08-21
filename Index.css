@@ -29,6 +29,8 @@ h1 {
   text-align: center;
   font-size: 100px;
   font-family: cat-paws, "Rubik Puddles", fantasy, sans-serif;
+  -webkit-animation: bounceIn 1.5s both 1s;
+  margin-top: 100px;
 }
 
 h2 {
