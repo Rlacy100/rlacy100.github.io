@@ -134,7 +134,7 @@ body {
     }
 
 figcaption {
-  border: dotted 3px white;
+  border: dotted 3px black;
   font-size: 13px;
   text-align: center;
   color: #87CEFA;
