@@ -320,8 +320,8 @@ h5 {
   } 
 
   60% { 
-    transform: scale(1.2); 
-    -webkit-transform: scale(1.2);
+    transform: scale(2); 
+    -webkit-transform: scale(2);
     opacity: 1;
   } 
 
@@ -339,8 +339,8 @@ h5 {
   } 
 
   60% { 
-    transform: scale(1.2); 
-    -webkit-transform: scale(1.2);
+    transform: scale(2); 
+    -webkit-transform: scale(2);
     opacity: 1;
   } 
 
