@@ -8,8 +8,6 @@
 
 #text {
   position: absolute;
-  bottom: 26%;
-  right: 27%;
   font-size: 5vw; /** responsive font-size **/
 }
 
