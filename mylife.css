@@ -122,6 +122,33 @@ body {
     display: inline-block;
     }
 
+#picture10{
+    padding: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    display: inline-block;
+    }
+
+#picture11{
+    padding: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    display: inline-block;
+    }
+
+#picture12{
+    padding: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    display: inline-block;
+    }
+
 figcaption {
   border: dotted 3px #87CEFA;
   font-size: 13px;
