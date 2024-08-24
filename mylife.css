@@ -1,4 +1,23 @@
+.images {
+    transition-property: max-height;
+    transition-duration: 1s;
+    transition-timing-function: easy-in-out;
+    transition-delay: 400ms;
+    padding: 10px;
+    height: 275px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    opacity: 1;
+    display: inline-block;
+    transition: .5s ease;
+    backface-visibility: hidden;
+    }
 
+.images:hover {
+  max-height: 500px;
+}
+  
 
 h5 {
   font-size: 10px;
