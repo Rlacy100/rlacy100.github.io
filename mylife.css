@@ -14,7 +14,7 @@
     backface-visibility: hidden;
     }
 
-.images:hover {
+.image:hover {
   max-height: 500px;
 }
   
