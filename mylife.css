@@ -1,4 +1,4 @@
-.images {
+.image {
     transition-property: max-height;
     transition-duration: 1s;
     transition-timing-function: easy-in-out;
