@@ -1,6 +1,6 @@
 body {
   background-image: url(./Images/jorge_cover.jpeg);
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   background-repeat: repeat;
     }
