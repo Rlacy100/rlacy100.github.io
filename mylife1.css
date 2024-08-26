@@ -8,5 +8,11 @@ body {
 .button {
   color: white;
   font-family: "Press Start 2P";
+  font-size: 15px;
+}
+
+p {
+  color: white;
+  font-family: "Press Start 2P";
   font-size: 10px;
 }
