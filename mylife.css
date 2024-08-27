@@ -38,6 +38,7 @@ h1 {
   text-shadow: 2px 2px 0 black;
   -webkit-animation: bounceIn 1.5s both 1s;
   margin-top: 100px;
+  letter-spacing: 2px;
   
 }
 
