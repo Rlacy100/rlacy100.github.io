@@ -13,7 +13,24 @@
     <link rel="stylesheet" href="./mylife1.css">
 </head>
 <body>
-  <footer>
+  <script>
+const toEmoticon = meaning => {
+  switch (meaning) {
+    case 'shrug':
+      return '|_{"}_|';
+    case 'smiley face':
+      return ':)';
+    case 'frowny face':
+      return ':(';
+    case 'winky face':
+      return ';)';
+    case 'heart':
+      return '<3';
+    default:
+      return '|_(* ~ *)_|';
+  }
+}</script>
+    <footer>
       <a class="button" href="./mylife.html">Previous Page</a>      <a class="button" href="mylife1.html">Next Page</a>
       <h5>Updated August 26</h5>
   </footer>
