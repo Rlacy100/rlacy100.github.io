@@ -275,11 +275,11 @@ p {
 } 
 
 body {
-    background-image: url(./Images/1699683_be10a.gif);
+    background-image: url(./Images/green smoke.jpg);
     color: black;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
 }
                                         
 h3 {
