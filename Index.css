@@ -277,9 +277,9 @@ p {
 body {
     background-image: url(./Images/1699683_be10a.gif);
     color: black;
-    background-size: cover;
+    background-size: contain;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
                                         
 h3 {
