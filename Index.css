@@ -277,7 +277,7 @@ p {
 body {
     background-image: url(./Images/green_smoke.jpg);
     color: black;
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
