@@ -22,23 +22,23 @@ ul li {
     }
 
 .figcaption1 {
-  border: dotted 3px white;
+  border: dotted 3px lime;
   text-align: center;
-  color: white;
+  color: lime;
   font-family: "Press Start 2P", fantasy, sans-serif;
   font-size: 13px;
-  opacity: 0.7;
+  opacity: 0.8;
   }
 
 figcaption {
-  border: dotted 3px white;
+  border: dotted 3px lime;
   font-size: 13px;
   text-align: center;
-  color: white;
+  color: lime;
   font-family: "Press Start 2P", fantasy, sans-serif;
   padding: 5px;
   margin: 10px;
-  opacity: 0.7;
+  opacity: 0.8;
   }
 
 h1 {
@@ -277,7 +277,7 @@ p {
 } 
 
 body {
-    background-image: url(./Images/green-smoke-black-background_9635-2615.jpg);
+    background-image: url(./Images/7026047.jpg);
     color: black;
     background-size: contain;
     background-position: center;
