@@ -277,9 +277,9 @@ p {
 body {
     background-image: url(./Images/green-smoke-black-background_9635-2615.jpg);
     color: black;
-    background-size: cover;
+    background-size: contain;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
                                         
 h3 {
