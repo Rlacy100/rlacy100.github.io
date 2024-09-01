@@ -50,7 +50,6 @@ h1 {
   font-family: cat-paws, "Rubik Puddles", fantasy, sans-serif;
   -webkit-animation: bounceIn 1.5s both 1s;
   margin-top: 50px;
-  border: dotted 3px lime;
 }
 
 h2 {
