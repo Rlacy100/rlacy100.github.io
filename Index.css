@@ -2,7 +2,7 @@ ul {
   padding-top: 20px;
   padding-bottom: 50px;
   border: dotted 2px lime;
-  background-image: conic-gradient(lime, black, lime, black, lime);
+ 
 }
 
 ul li {
@@ -279,8 +279,8 @@ p {
   color: #32CD32;
 } 
 
-body {
-    background-image: url(./Images/7026047.jpg);
+body { 
+    background-image: conic-gradient(lime, black, lime, black, lime);
     color: black;
     background-size: cover;
     background-position: center;
