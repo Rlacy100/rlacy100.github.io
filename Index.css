@@ -282,9 +282,9 @@ p {
 body { 
     background-image: url("./Images/360_F_374167530_ZsM37zja3byI9dJaeNfBCF1tcQz5ZA8y.jpg");
     color: black;
-    background-size: contain;
+    background-size: 100%;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
                                         
 h3 {
