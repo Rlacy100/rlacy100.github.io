@@ -53,6 +53,7 @@ h1 {
   -webkit-animation: bounceIn 1.5s both 1s;
   margin-top: 50px;
   background-color: black;
+  border: dotted 3px orange;
 }
 
 h2 {
@@ -60,7 +61,7 @@ h2 {
    color: white;
    text-align: center;
    font-size: 40px;
-   border: solid 3px white;
+   border: dotted 3px white;
    padding-bottom: 10px;
    -webkit-animation: bounceIn 2.5s both 1s;
   margin-top: 20px;
