@@ -28,7 +28,7 @@ ul li {
 .figcaption1 {
   border: dotted 3px orange;
   text-align: center;
-  color: orange;
+  color: black;
   font-family: "Press Start 2P", fantasy, sans-serif;
   font-size: 13px;
   opacity: 0.8;
@@ -38,7 +38,7 @@ figcaption {
   border: dotted 3px orange;
   font-size: 13px;
   text-align: center;
-  color: orange;
+  color: white;
   font-family: "Press Start 2P", fantasy, sans-serif;
   padding: 5px;
   margin: 10px;
