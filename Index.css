@@ -1,7 +1,8 @@
 ul {
   padding-top: 20px;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
   border: dotted 2px orange;
+  background-color: black;
  
 }
 
@@ -12,6 +13,7 @@ ul li {
   font-weight: 700;
   color: orange;
   line-height: 1.6;
+  background-color: black;
 } 
     
 
@@ -50,6 +52,7 @@ h1 {
   font-family: cat-paws, "Rubik Puddles", fantasy, sans-serif;
   -webkit-animation: bounceIn 1.5s both 1s;
   margin-top: 50px;
+  background-color: black;
 }
 
 h2 {
