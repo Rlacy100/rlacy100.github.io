@@ -280,7 +280,7 @@ p {
 } 
 
 body { 
-     background-image: repeating-radial-gradient(green, black 10%, green 15%);
+    background-image: url("./Images/360_F_374167530_ZsM37zja3byI9dJaeNfBCF1tcQz5ZA8y.jpg");
     color: black;
     background-size: contain;
     background-position: center;
