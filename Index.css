@@ -286,18 +286,9 @@ body {
     background-position: center;
     background-repeat: repeat;
 }
-                                        
-h3 {
-    font-family: "Press Start 2P", sevillana, fantasy, serif;
-    color: white;
-    text-align: center;
-    font-size: 9px;
-}
-
-
 
 h5 {
-    color: lime;
+    color: orange;
     font-family: "Press Start 2P";
     font-size: 11px;
 }
