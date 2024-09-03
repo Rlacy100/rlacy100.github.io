@@ -3,7 +3,7 @@ ul {
   padding-bottom: 30px;
   border: dotted 2px orange;
   background-color: black;
- 
+  -webkit-animation: bounceIn 3.5s both 1s;
 }
 
 ul li {
