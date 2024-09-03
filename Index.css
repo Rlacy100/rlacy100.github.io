@@ -284,7 +284,7 @@ body {
     color: black;
     background-size: cover;
     background-position: center;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
 }
                                         
 h3 {
