@@ -170,10 +170,12 @@ body {
     }
 
 figcaption {
-  border: dotted 3px #87CEFA;
+  background-color: black;
+  opacity: 0.8;
+  border: dotted 3px orange;
   font-size: 13px;
   text-align: center;
-  color: #87CEFA;
+  color: purple;
   font-family: "Press Start 2P", fantasy, sans-serif;
   padding: 10px;
   margin: 10px;
