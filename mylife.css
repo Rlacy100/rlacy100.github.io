@@ -172,6 +172,7 @@ body {
     }
 
 figcaption {
+  font-weight: bold;
   background-color: black;
   opacity: 0.8;
   border: dotted 3px orange;
