@@ -33,12 +33,14 @@ h1 {
   font-family: "Rubik Puddles";
   text-align: center;
   font-size: 110px;
-  color: #87CEFA;
+  color: orange;
   padding-bottom: 20px;
   text-shadow: 2px 2px 0 black;
   -webkit-animation: bounceIn 1.5s both 1s;
   margin-top: 100px;
   letter-spacing: 2px;
+  background-color: black;
+  opacity: 0.8;
   
 }
 
