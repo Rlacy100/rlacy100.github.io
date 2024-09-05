@@ -300,6 +300,7 @@ h5 {
     color: orange;
     font-family: "Press Start 2P";
     font-size: 11px;
+    border: dotted 3px orange;
 }
 
 #myBtn {
