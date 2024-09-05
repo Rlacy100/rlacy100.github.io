@@ -31,6 +31,7 @@ a {
 }
 
 h1 {
+  border: dotted 3px purple;
   font-family: "Rubik Puddles";
   text-align: center;
   font-size: 110px;
