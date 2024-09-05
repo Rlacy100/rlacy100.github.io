@@ -20,8 +20,9 @@
   
 
 h5 {
+  background-color: black;
   font-size: 12px;
-  color: black;
+  color: purple;
   font-family: "Press Start 2P", sans-serif;
 }
 
@@ -40,7 +41,7 @@ h1 {
   margin-top: 100px;
   letter-spacing: 2px;
   background-color: black;
-  opacity: 0.8;
+  opacity: 0.9;
   
 }
 
@@ -174,7 +175,7 @@ body {
 figcaption {
   font-weight: bold;
   background-color: black;
-  opacity: 0.8;
+  opacity: 0.9;
   border: dotted 3px orange;
   font-size: 13px;
   text-align: center;
