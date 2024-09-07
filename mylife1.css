@@ -3,8 +3,15 @@ h1 {
 }
 
 figcaption {
+  border: dotted 3px orange;
   
 }
 
 .picture {
-  
+   padding: 10px;
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    align: center;
+    display: float;
+}
