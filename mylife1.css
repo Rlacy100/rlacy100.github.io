@@ -16,7 +16,8 @@ h1 {
 figcaption {
   border: dotted 3px orange;
   color: orange;
-  
+  text-align: center;
+  font-family: "Press Start 2P"
 }
 
 .picture {
