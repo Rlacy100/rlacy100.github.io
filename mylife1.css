@@ -29,3 +29,8 @@ figcaption {
 
 body {
   background-image: url(./Images/360_F_375317891_CaB5yFaQSdTezeuw6NLJUZyCmgXtYLba.jpg);
+   color: black;
+  background-size: contain;
+  background-position: center;
+  background-repeat: repeat;
+}
